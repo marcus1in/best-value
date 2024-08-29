@@ -62,6 +62,7 @@
 .container {
     text-align: center;
     font-family: "Marcellus SC", serif;
+    background-color: #FAF3E0;
 }
 
 .container p {
@@ -71,4 +72,22 @@
     color: black;
     font-family: "Marcellus SC", serif;
     font-weight: 100;
+}
+
+.container button {
+    border-radius: 30px;
+    border: none;
+    padding: 30px 20px;
+    margin: 24px 30px;
+    background-color: #FF9800;
+    font-size: 16px;
+    width: 200px;
+    color: #333333;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container button:hover {
+    background-color: #FFECB3;
 }
