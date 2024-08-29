@@ -53,9 +53,16 @@
 
 .container .title {
     font-size: 28px;
-    padding: 15px;
+    padding-top: 100px;
+    padding-bottom: 40px;
 }
 
 .container {
     text-align: center;
+}
+
+.container p {
+    margin: 15px 300px;
+    line-height: 37px;
+    font-size: 18px;
 }
