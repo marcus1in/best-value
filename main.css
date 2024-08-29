@@ -51,6 +51,10 @@
 
 /* center section */
 
-.container title {
+.container .title {
     font-size: 28px;
+}
+
+.container {
+    text-align: center;
 }
