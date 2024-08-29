@@ -48,3 +48,9 @@
     padding: 0 10px;
     font-family: "Fjalla One", sans-serif;
 }
+
+/* center section */
+
+.container title {
+    font-size: 28px;
+}
