@@ -55,14 +55,20 @@
     font-size: 28px;
     padding-top: 100px;
     padding-bottom: 40px;
+    color: #D35400;
+    font-weight: 100;
 }
 
 .container {
     text-align: center;
+    font-family: "Marcellus SC", serif;
 }
 
 .container p {
     margin: 15px 300px;
     line-height: 37px;
     font-size: 18px;
+    color: black;
+    font-family: "Marcellus SC", serif;
+    font-weight: 100;
 }
